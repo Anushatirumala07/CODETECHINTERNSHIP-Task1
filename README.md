@@ -48,3 +48,5 @@ Provides error messages for invalid inputs or attempts to divide by zero.
 Cleanup:
 
 Closes the Scanner object to release resources.
+OUTPUT:
+![Screenshot 2024-07-19 221056](https://github.com/user-attachments/assets/a79ff431-099e-4d46-9058-e6c2da7e4b8b)
